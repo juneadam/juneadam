@@ -14,7 +14,7 @@
 
 ## 😄 Pronouns: 
 - she/they
-- 
+  
 ## ⚡ Fun fact: 
 - I'm a musician and a writer, and I've toured coast to coast as a performer.
 
