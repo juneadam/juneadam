@@ -1,7 +1,7 @@
 # June Balter | 💻 Full Stack Software Engineer
 
 ## 🔭 I’m currently working on ...
-  - My developer portfolio: Hope to have a first draft up and running by the end of June, can't wait to share it with you! [Portfolio](https://github.com/juneadam/june-portfolio)
+  - My developer portfolio! You can visit version 1.0 now [junebalter.fly.dev][https://junebalter.fly.dev] [Portfolio](https://github.com/juneadam/june-portfolio)
   - The BirdDex: A personal project with @bethany-lynn - a familiar-looking encyclopedia for (mostly) real world birds. [BirdDex](https://github.com/juneadam/bird-app)
   - Commercial websites for businesses in Tennesee and California, built with @dr-acc and @alexray113 - more details to be shared once live!
 
