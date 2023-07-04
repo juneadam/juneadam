@@ -8,7 +8,7 @@
 
 ## 🌱 I’m currently learning ...
   - React.js and TailwindCSS - I'm loving both
-  - Accessibility + WCAG best practices - making sure software and web sites are accessible as possible is important to me
+  - Accessibility + WCAG best practices - making sure software and web sites are as accessible as possible is important to me
 
 ## 👯 I’m looking to collaborate on ...
   - Freelance website and software development work
