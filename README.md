@@ -5,7 +5,7 @@
     - You can visit version 1.0 now [junebalter.fly.dev](https://junebalter.fly.dev)
     - [Portfolio repo](https://github.com/juneadam/june-portfolio)
   - The BirdDex: A personal project with @bethany-lynn - a familiar-looking encyclopedia for (mostly) real world birds. 
-    - Version 1.0 now deployed! [bird-dex.fly.dev][https://bird-dex.fly.dev]
+    - Version 1.0 now deployed! [bird-dex.fly.dev](https://bird-dex.fly.dev)
     - [BirdDex repo](https://github.com/juneadam/bird-app)
   - Commercial websites for businesses in Tennesee and California, built with @dr-acc and @alexray113 - more details to be shared once live!
 
