@@ -1,6 +1,8 @@
 # June Balter | 💻 Full Stack Software Engineer
 
 ## 🔭 I’m currently working on ...
+  - Lil Bird Party Game!
+    - Entry to the React Jam game jam
   - My developer portfolio!
     - You can visit version 1.0 now [junebalter.fly.dev](https://junebalter.fly.dev)
     - [Portfolio repo](https://github.com/juneadam/june-portfolio)
