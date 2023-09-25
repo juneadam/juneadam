@@ -10,12 +10,6 @@
     - [BirdDex repo](https://github.com/juneadam/bird-app)
   - Commercial websites for businesses in Tennesee and California, built with @dr-acc and @alexray113 - more details to be shared once live!
 
-## 😄 Pronouns: 
-- she/they
-  
-## ⚡ Fun fact: 
-- I'm a musician and a writer, and I've toured coast to coast as a performer.
-
 <!--
 **juneadam/juneadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
